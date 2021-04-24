@@ -1,0 +1,4 @@
+this is a new repository
+ssh-keygen -t rsa -b 4096 -C "harshitang59@gmail.com"
+ ssh-add ~/.ssh/rsa
+ ~/.ssh/id_rsa.pub
